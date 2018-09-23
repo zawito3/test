@@ -3,4 +3,5 @@
  */
 public class ThirdTestClass {
     private String className = "This third test class";
+    /* Commit after tag Version1.0*/
 }
